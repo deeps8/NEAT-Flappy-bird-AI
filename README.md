@@ -10,7 +10,6 @@ An AI that learns to play Flappy bird game using the NEAT python module . NEAT c
 1. Bird jump ( if bird should jump or not )
 
 ## Modules used :
-1.  pygame for building the Dino run 
-2.  NEAT python module to make AI that plays the game
- 
+1.  pygame for building the Dino run - ``` pip install pygame ```
+2.  NEAT python module to make AI that plays the game - ``` pip install neat-python ```
 
